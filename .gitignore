@@ -1,0 +1,7 @@
+# Ignored
+.DS_Store
+js/lib/**/*
+
+# Kept Files
+!js/lib/Sample
+!js/lib/Sample/.gitkeep
